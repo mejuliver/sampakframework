@@ -1,0 +1,15 @@
+{
+    "name": "pddev01/sampakframework",
+    "autoload": {
+        "psr-4": {
+            "Pddev01\\Sampakframework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juliver Galleto",
+            "email": "juliver.galleto@gmail.com"
+        }
+    ],
+    "require": {}
+}

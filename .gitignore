@@ -1,0 +1,14 @@
+vendor
+/vendor
+/.idea
+
+node_modules
+/node_modules
+
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+
+composer.lock
+package-lock.json

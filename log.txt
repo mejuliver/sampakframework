@@ -1,0 +1,58 @@
+structure
+	
+	core
+		App.php
+		Controller.php
+		Model.php
+		Database.php
+		Config.pph
+		Http.php
+		Middleware.php
+		Input.php
+		Mail.php
+		Helper.php
+		Hook.php
+		View.php
+		Language.php
+	models
+		-- model files
+	controllers
+		-- controller fils
+	config
+		app.php
+		database.php
+		mail.php
+		-- other configs
+	middlewares
+		-- middleware files
+	helpers
+		-- global php files contains functions
+	hooks
+		-- system hooks
+	routes
+		web.php
+		-- other route files
+	public
+		index.php
+		.htaccess
+		.webmanifest
+		robots.txt
+		-- others for public access
+	views
+		error
+			-- error files
+		lang
+			-- language files
+		-- view files
+	storage
+		uploads
+		temp
+		cache
+		-- other files uploaded or downloadable
+	vendor
+		autoload.php
+		-- packagist
+
+	.env-example
+	composer.json
+	package.json
